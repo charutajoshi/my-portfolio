@@ -19,8 +19,8 @@ h1 {
   font-size: 4.4rem;
   color: white;
   margin: 50px auto 0 auto;
-  -webkit-text-stroke-width: .35px;
-  -webkit-text-stroke-color: #1E5128;
+  /* -webkit-text-stroke-width: .35px;
+  -webkit-text-stroke-color: #1E5128; */
 }
 
 h2 {
@@ -109,8 +109,8 @@ a.navbar-brand {
 
 /* Top Container  */
 .top-container {
-  background-image: url('../images/green-wp.webp');
-  /* background-color: #7FB77E; */
+  /* background-image: url('../images/green-wp.webp'); */
+  background-color: #B1D7B4;
   position: relative;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -134,8 +134,8 @@ a.navbar-brand {
 .top-container-description {
   color: white;
   font-size: 2.3em;
-  -webkit-text-stroke-width: .35px;
-  -webkit-text-stroke-color: #1E5128;
+  /* -webkit-text-stroke-width: .35px;
+  -webkit-text-stroke-color: #1E5128; */
   font-family: 'Raleway', sans-serif;
   padding-left: 8em;
   padding-right: 8em;
@@ -306,3 +306,4 @@ a.btn:hover {
     padding-left: 0;
     padding-right: 0;
   }
+}
